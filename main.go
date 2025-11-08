@@ -4,11 +4,10 @@ import "fmt"
 
 // Hello returns the classic greeting string.
 func Hello() string {
-    return "hi world"
+    return "hi zhangjiong"
 }
 
 func main() {
     fmt.Println(Hello())
 }
-
 
